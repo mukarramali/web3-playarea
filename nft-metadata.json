@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Cologne"
+    },
+    {
+      "trait_type": "HowDoYouGetImageURL",
+      "value": "You upload it to pinata and put the url here"
+    }
+  ],
+  "description": "Flags of different nations together with a peace message.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmeZAWeAwaW8Ztyg418bT3hWkFd8GyZctHScCMu7NVVfNE",
+  "name": "WorldPeace"
+}
